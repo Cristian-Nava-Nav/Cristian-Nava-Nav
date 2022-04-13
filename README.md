@@ -1,4 +1,3 @@
 - Hello my name is @Cristian-Nava-Nav, i am a 18 years old and i love program 👋 
 - I am interested in work as a developer!
-- I’m currently learning React
 - Contact: nnvcristian@gmail.com :)
